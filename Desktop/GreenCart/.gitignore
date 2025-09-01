@@ -1,0 +1,22 @@
+# client tarafındaki node_modules
+client/node_modules/
+
+# server tarafında ileride oluşursa
+server/node_modules/
+
+# build klasörleri
+client/dist/
+client/build/
+server/dist/
+server/build/
+
+# env dosyaları
+*.env
+*.env.local
+
+# log dosyaları
+*.log
+
+# OS çöpleri
+.DS_Store
+Thumbs.db
